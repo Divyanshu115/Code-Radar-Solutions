@@ -2,7 +2,6 @@
 
 int main() {
     int num;
-    printf("Enter a number:");
     scanf("%i", &num);
     printf("Decimal:%d\n", num);
     printf("Hexadecimal:%X\n", num);
