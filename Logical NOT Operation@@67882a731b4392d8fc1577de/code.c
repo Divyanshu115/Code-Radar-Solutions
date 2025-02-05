@@ -1,18 +1,16 @@
 #include <stdio.h>
 
 int main() {
-    int a,;
+    int a;
     scanf("%d", &a);
 
-    if (a!= 0) {
+    if (a > 0) {
         printf("False");
     } 
-    else if(a<0){
-        printf("True");
-    }
-    else  {
+    else {
         printf("True");
     }
 
     return 0;
 }
+
