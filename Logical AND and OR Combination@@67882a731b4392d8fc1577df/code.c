@@ -10,6 +10,6 @@ int main() {
     else{
         printf("Falase\n");
     }
-    }
     return 0;
-}
+    }
+    
