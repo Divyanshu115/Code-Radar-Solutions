@@ -8,7 +8,7 @@ int main() {
 
     }
     else{
-        printf("Falase\n")
+        printf("Falase\n");
     }
     }
     return 0;
