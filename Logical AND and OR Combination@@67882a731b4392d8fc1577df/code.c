@@ -2,11 +2,14 @@
 int main() {
     int a,b;
     scanf("%d %d",&a,&b);
-    if (a>0 && b<0) ||(a==0 && b==0){
-        printf("True");
+    bool condition (a>0 && b<0) ||(a==0 && b==0);
+    if(condition){
+        printf("True\n");
+
     }
     else{
-        printf("False");
+        printf("Falase\n")
+    }
     }
     return 0;
 }
