@@ -10,7 +10,7 @@ int main() {
     else if(a<0){
         printf("True");
     }
-    else if (a>0) {
+    else  {
         printf("True");
     }
 
